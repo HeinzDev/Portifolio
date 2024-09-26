@@ -1,0 +1,131 @@
+{
+    "Timothy": {
+      "type": "frontend",
+      "repo": "https://timothy-project.vercel.app/",
+      "icon": "react.png",
+      "image": "https://i.imgur.com/Yr5mNYS.jpeg",
+      "text": "Timothy",
+      "description": "Create Game lists with your friends"
+    },
+    "Angular": {
+      "type": "frontend",
+      "repo": "https://github.com/HeinzDev/Angular-Api-Front",
+      "icon": "angular.png",
+      "image": "https://i.imgur.com/Rl9rozN.png",
+      "text": "Angular",
+      "description": "Crud user manegement made in Angular"
+    },
+    "Tabz": {
+      "type": "frontend",
+      "repo": "https://tabz.onrender.com",
+      "icon": "javascript.png",
+      "image": "https://i.imgur.com/VifQh9L.png",
+      "text": "Tabz",
+      "description": "Transpose your guitar Tabs!"
+    },
+    "Citypop": {
+      "type": "frontend",
+      "repo": "https://city-pop-blossom.vercel.app/",
+      "icon": "javascript.png",
+      "image": "https://i.imgur.com/WkIwBLh.png",
+      "text": "CityPop Player",
+      "description": "Web music player for CityPop songs"
+    },
+    "GUserFinder": {
+      "type": "frontend",
+      "repo": "https://git-hub-user-finder-sepia.vercel.app/",
+      "icon": "react.png",
+      "image": "https://i.imgur.com/NelA4LN.png",
+      "text": "Github User Finder",
+      "description": "Github User and Repository finder"
+    },
+    "Todo": {
+      "type": "frontend",
+      "repo": "https://todo-list-react-js-pearl.vercel.app",
+      "icon": "react.png",
+      "image": "https://i.imgur.com/4tf13Xg.png",
+      "text": "Todo",
+      "description": "My TodoList made with ReactJS"
+    },
+    "Timothy-API": {
+      "type": "backend",
+      "repo": "https://github.com/HeinzDev/Timothy-Project/tree/main/backend",
+      "icon": "react.png",
+      "image": "https://blog.rocketseat.com.br/content/images/size/w1000/2024/02/typescript-1.png",
+      "text": "Timothy Project API",
+      "description": "Typescript API with ExpressJS + Mongo"
+    },
+    "spring": {
+      "type": "backend",
+      "repo": "https://github.com/HeinzDev/Spring-Crud-Api",
+      "icon": "java.png",
+      "image": "https://cdn.prod.website-files.com/60b5fb8099853a4e31b20137/60c0cac26a95b36b9ec0ebdf_springboot.png",
+      "text": "My Spring API",
+      "description": "SpringBoot API for general purposes"
+    },
+    "Actix": {
+      "type": "backend",
+      "repo": "https://github.com/HeinzDev/actix-basic-api",
+      "icon": "rust.png",
+      "image": "https://i.ytimg.com/vi/PTh3ssffjqE/hqdefault.jpg",
+      "text": "Actix API",
+      "description": "Actix Rust API with SQLite"
+    },
+    "php": {
+      "type": "backend",
+      "repo": "https://github.com/HeinzDev/biblio-PHP",
+      "icon": "php.png",
+      "image": "https://static.imasters.com.br/wp-content/uploads/2018/06/22153245/php-post-1.png",
+      "text": "PHP+MySQL",
+      "description": "Php API with Mysql"
+    },
+    "GameLauncher": {
+      "type": "desktop",
+      "repo": "https://github.com/HeinzDev/Game-Launcher-Java",
+      "icon": "java.png",
+      "image": "https://i.imgur.com/5WJsli2.png",
+      "text": "Game Launcher",
+      "description": "Steam Game Launcher made with JavaFX"
+    },
+    "Minesweeper": {
+      "type": "desktop",
+      "repo": "https://github.com/HeinzDev/Minefield-Java",
+      "icon": "java.png",
+      "image": "https://external-preview.redd.it/erHL3PyeGQHjvidgMK3c3cueno4MR-2iHulq4Iaygec.jpg?auto=webp&s=72925c35fe43e85407a78b40f881a0a4c5da4c79",
+      "text": "Minefield",
+      "description": "Desktop Minefield"
+    },
+    "Hyprland": {
+      "type": "utils",
+      "repo": "https://github.com/HeinzDev/Hyprland-dotfiles",
+      "icon": "nix.png",
+      "image": "https://i.imgur.com/S4XT0ZF.png",
+      "text": "Hyprland Dotfiles",
+      "description": "Complete custom NixOS desktop"
+    },
+    "AutoPrettier": {
+      "type": "utils",
+      "repo": "https://github.com/HeinzDev/AutoPrettier",
+      "icon": "bash.png",
+      "image": "https://facts.net/wp-content/uploads/2024/05/20-facts-about-prettier-1716644572.jpg",
+      "text": "Auto Prettier",
+      "description": "Bash script to automatize the prettier install"
+    },
+    "RustLearn": {
+      "type": "utils",
+      "repo": "https://github.com/HeinzDev/Rust-Basics",
+      "icon": "rust.png",
+      "image": "https://www.orientsoftware.com/Themes/Content/Images/technologies/rust/osd-rust-thumb.jpg",
+      "text": "Rust Basics",
+      "description": "Project to teach the Rust Language"
+    },
+    "RustJapaneseReading": {
+      "type": "utils",
+      "repo": "https://github.com/HeinzDev/Rust-Japanese-Reading",
+      "icon": "rust.png",
+      "image": "https://images.squarespace-cdn.com/content/v1/60c543f3dd587909185f6a3f/1694477079741-L6967US024LDOPHVOOYL/sq-rust-social-banner.jpg",
+      "text": "Rust Japanese Reading",
+      "description": "Algorithm made to fast reading on japanese language"
+    }
+}
+  

@@ -1,0 +1,54 @@
+.project-container {
+    background-color: #101721;
+    height: 100%;
+    width: 100%;
+    padding-bottom: 2px;
+}
+
+.project-text-container {
+    padding: 5vh 20vw;
+}
+
+.project-text-container h1 {
+    text-align: center;
+    font-size: 5em;
+    font-family: monospace;
+}
+
+.project-text-container h3 {
+    text-align: center;
+    font-size: 1.6em;
+}
+
+.project-options {
+    margin: 1vh 5vw;
+}
+
+.project-buttons {
+    display: flex;
+    justify-content: center;
+}
+
+.project-bubbles {
+    display: none;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    gap: 10px;
+    background-color: #0b2136;
+    border-radius: 20px;
+    margin: 5% 0;
+    padding: 2vh 1vw;
+    overflow: hidden;
+    transition: all 0.3s ease-in-out;
+    opacity: 0;
+    height: 0%;
+}
+
+.project-bubbles.visible {
+    display: flex;
+    opacity: 1;
+    height: 100%;
+    transition: all 0.3s ease-in-out;
+    margin: 3% 13%;
+  }
