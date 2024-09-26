@@ -3,7 +3,7 @@
       "type": "frontend",
       "repo": "https://timothy-project.vercel.app/",
       "icon": "react.png",
-      "image": "https://i.imgur.com/Yr5mNYS.jpeg",
+      "image": "/images/timothy.jpeg",
       "text": "Timothy",
       "description": "Create Game lists with your friends"
     },
@@ -11,7 +11,7 @@
       "type": "frontend",
       "repo": "https://github.com/HeinzDev/Angular-Api-Front",
       "icon": "angular.png",
-      "image": "https://i.imgur.com/Rl9rozN.png",
+      "image": "/images/angular.png",
       "text": "Angular",
       "description": "Crud user manegement made in Angular"
     },
@@ -19,7 +19,7 @@
       "type": "frontend",
       "repo": "https://tabz.onrender.com",
       "icon": "javascript.png",
-      "image": "https://i.imgur.com/VifQh9L.png",
+      "image": "/images/tabz.png",
       "text": "Tabz",
       "description": "Transpose your guitar Tabs!"
     },
@@ -27,7 +27,7 @@
       "type": "frontend",
       "repo": "https://city-pop-blossom.vercel.app/",
       "icon": "javascript.png",
-      "image": "https://i.imgur.com/WkIwBLh.png",
+      "image": "/images/citypop.png",
       "text": "CityPop Player",
       "description": "Web music player for CityPop songs"
     },
@@ -35,7 +35,7 @@
       "type": "frontend",
       "repo": "https://git-hub-user-finder-sepia.vercel.app/",
       "icon": "react.png",
-      "image": "https://i.imgur.com/NelA4LN.png",
+      "image": "/images/finder.png",
       "text": "Github User Finder",
       "description": "Github User and Repository finder"
     },
@@ -43,7 +43,7 @@
       "type": "frontend",
       "repo": "https://todo-list-react-js-pearl.vercel.app",
       "icon": "react.png",
-      "image": "https://i.imgur.com/4tf13Xg.png",
+      "image": "/images/todo.png",
       "text": "Todo",
       "description": "My TodoList made with ReactJS"
     },
@@ -83,7 +83,7 @@
       "type": "desktop",
       "repo": "https://github.com/HeinzDev/Game-Launcher-Java",
       "icon": "java.png",
-      "image": "https://i.imgur.com/5WJsli2.png",
+      "image": "/images/launcher.png",
       "text": "Game Launcher",
       "description": "Steam Game Launcher made with JavaFX"
     },
@@ -99,7 +99,7 @@
       "type": "utils",
       "repo": "https://github.com/HeinzDev/Hyprland-dotfiles",
       "icon": "nix.png",
-      "image": "https://i.imgur.com/S4XT0ZF.png",
+      "image": "/images/hyprland.png",
       "text": "Hyprland Dotfiles",
       "description": "Complete custom NixOS desktop"
     },
