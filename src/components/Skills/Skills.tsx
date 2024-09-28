@@ -6,7 +6,7 @@ const Profile = () => {
   const [opacity, setOpacity] = useState(0.1);
 
   const accessSkills = () => {
-    window.open('https://github.com/HeinzDev/HeinzDev', '_blank');
+    window.open('https://github.com/HeinzDev/HeinzDev?tab=readme-ov-file#stats-', '_blank');
   }
 
   useEffect(() => {
