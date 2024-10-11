@@ -1,0 +1,28 @@
+{
+    "Java": {
+      "name": "Java",
+      "img": "",
+      "text": "Linguagem de programação de alto nível e orientada a objetos."
+    },
+    "Rust": {
+      "name": "Rust",
+      "img": "",
+      "text": "Linguagem focada em segurança e desempenho."
+    },
+    "ReactJS": {
+      "name": "ReactJS",
+      "img": "",
+      "text": "Ferramenta moderna para construção de interfaces de usuário."
+    },
+    "Javascript": {
+      "name": "Javascript",
+      "img": "",
+      "text": "Linguagem essencial para desenvolvimento web interativo."
+    },
+    "Nix": {
+      "name": "Nix",
+      "img": "",
+      "text": "Linguagem de configuração e sistema de gerenciamento de pacotes."
+    }
+  }
+  

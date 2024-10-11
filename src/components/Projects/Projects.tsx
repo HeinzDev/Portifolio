@@ -9,16 +9,6 @@ const Projects = () => {
 
   const handleButtonClick = (type: string) => {
     setSelectedType(prevType => (prevType === type ? null : type));
-    setTimeout(() => {
-      scrollToProjects();
-    }, 200);
-  };
-
-  const scrollToProjects = () => {
-    const projectsSection = document.getElementById('projects');
-    if (projectsSection) {
-      projectsSection.scrollIntoView({ behavior: 'smooth' });
-    }
   };
 
   const accessRepository = (repo: string) => {
@@ -40,18 +30,19 @@ const Projects = () => {
           <Button icon='fa-solid fa-desktop' text='Desktop' number='2' onClick={() => handleButtonClick('desktop')} />
           <Button icon='fa-brands fa-docker' text='Utils' number='4' onClick={() => handleButtonClick('utils')} />
         </div>
-
-        <div id="projects" className={`project-bubbles ${selectedType ? 'visible' : ''}`}>
-          {filteredProjects.map((project, index) => (
-            <Bubble
+        <div className="project-bubbles-container">
+          <div id="projects" className={`project-bubbles ${selectedType ? 'visible' : ''}`}>
+            {filteredProjects.map((project, index) => (
+              <Bubble
               key={index}
               icon={project.icon}
               image={project.image}
               text={project.text}
               description={project.description}
               onClick={()=>accessRepository(project.repo)}
-            />
-          ))}
+              />
+            ))}
+          </div>
         </div>
       </div>
     </div>
