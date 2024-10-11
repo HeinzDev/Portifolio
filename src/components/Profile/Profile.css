@@ -4,6 +4,7 @@
     flex-direction: row;
     justify-content: space-between;
     height: 18vh;
+    max-width: 200px;
 }
 .header a {
     color: white;
